@@ -25,37 +25,37 @@ But science, for me, is more than lab work. It’s about curiosity, connection, 
   <img src="/pooja/images/The%20Journey.png" alt="The Journey" width="550">
 </p>
 
-**Outside the lab, you’ll find me:**  
+Outside the lab, you’ll find me:
+===============================
 
-🌊 Diving into oceans or kayaking under the sun  
+**🌊 Diving into oceans or kayaking under the sun** 
 <p align="center">
   <img src="/pooja/images/under%20the%20sea%20.jpg" alt="Under the sea" width="280">
 </p>
 
-🍲 Cooking with heart and experimenting with flavors  
+**🍲 Cooking with heart and experimenting with flavors**  
+*Carrots, Cooking & Carotenoids*   
+
 <p align="center">
   <img src="/pooja/images/Moroccan%20Lamb%20Tagine%20(Spice%20and%20Flavours).jpg" alt="Moroccan Lamb Tagine" width="260">
 </p>
 
-*Carrots, Cooking & Carotenoids*  
 When I cook carrots, I’m not just playing with flavors; I’m also seeing molecules at work. Carotenoids (like β-carotene, which makes carrots orange) change their bioavailability depending on how you cook them: boiling, steaming, or adding oil helps release them so our bodies can absorb more.  
 
-In my research, I study carotenoids as molecular storytellers: they act as antioxidants and as signals during regeneration and multicellularity.  
-Just like cooking reveals their hidden nutritional power, my spectroscopy work reveals their hidden biological roles guiding stem cells, regulating redox states, and influencing how life heals or evolves.  
+In my research, I study carotenoids as molecular storytellers: they act as antioxidants and as signals during regeneration and multicellularity. Just like cooking reveals their hidden nutritional power, my spectroscopy work reveals their hidden biological roles guiding stem cells, regulating redox states, and influencing how life heals or evolves.  
 
-So in both the kitchen and the lab, carotenoids connect flavor, color, and vitality with the deeper story of life’s resilience and transformation.  
-“From snowflake yeast to regenerating worms, my research follows Darwin’s idea of survival of the fittest, where only the most adaptable molecular strategies endure.”  
+So in both the kitchen and the lab, carotenoids connect flavor, color, and vitality with the deeper story of life’s resilience and transformation. “From snowflake yeast to regenerating worms, my research follows Darwin’s idea of survival of the fittest, where only the most adaptable molecular strategies endure.”  
 
-🚀 Dreaming big about contributing to the future of astrobiology  
+**🚀 Dreaming big about contributing to the future of astrobiology** 
 <p align="center">
   <img src="/pooja/images/Astronaut%20me.jpg" alt="Astronaut me" width="260">
 </p>
 
 From carotenoids as molecular signals in amoeba, zebrafish, and carrots, to the emergence of cooperative behavior in snowflake yeast, my research connects molecular fingerprints to some of life’s deepest questions:  
 
-- How do organisms regenerate?  
-- How did multicellularity evolve?  
-- Can universal biosignatures guide us in regenerative medicine and even astrobiology?  
+- **How do organisms regenerate?**  
+- **How did multicellularity evolve?**
+- **Can universal biosignatures guide us in regenerative medicine and even astrobiology?**  
 
 I am a biophysicist decoding the molecular signatures of life through advanced optical imaging. My work integrates Two-Photon Fluorescence Lifetime Imaging (phasor approach) and Raman spectroscopy to map cellular processes in vivo, revealing how carotenoids, redox states, and lipid metabolism regulate regeneration, development, and multicellularity. From identifying blastema formation in the regenerating worm *Aeolosoma viride* to tracking cooperative transitions in snowflake yeast, my research connects biophysics and evolutionary biology to address fundamental questions: how life heals, organizes, and evolves complexity.  
 
