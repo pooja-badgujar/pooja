@@ -49,7 +49,7 @@ Carotenoid dynamics from plant seeds (β-carotene, lutein) to zebrafish larvae (
 Carotenoids are conserved cross-platform biomarkers of development, stress response, and regeneration, with potential translatability to mammalian neurodevelopment and retinal metabolism.  
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/pooja/images/3A.tif" alt="Carotenoid figure 3A" width="45%">
+  <img src="/pooja/images/3A.jpg" alt="Carotenoid figure 3A" width="45%">
   <img src="/pooja/images/3B.png" alt="Carotenoid figure 3B" width="45%">
 </div>  
 
