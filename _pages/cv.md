@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV / Resume
-======
-
 You can view or download my CV here:  
 [📄 Download CV (PDF)]({{ base_path }}/images/dr_pooja_cv.pdf)
 
