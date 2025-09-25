@@ -12,7 +12,7 @@ I grew up curious about how life begins, heals, and transforms.
 I began my journey in Nanoscience and Nanotechnology, working with IBM (Bangalore) and the Optical Energy Conversion Laboratory (Taiwan) on semiconductors, where I learned how the smallest building blocks could create immense possibilities.  
 
 <p align="center">
-  <img src="/pooja/images/OEC.jpg" alt="Optical Energy Conversion Lab" width="500">
+  <img src="/pooja/images/OEC%20.jpg" alt="Optical Energy Conversion Lab" width="500">
 </p>
 
 Yet, my curiosity pulled me further from circuits to cells.  
@@ -37,7 +37,7 @@ These experiences taught me resilience, teamwork, and the joy of creating someth
 
 🌊 Diving into oceans or kayaking under the sun  
 <p align="center">
-  <img src="/pooja/images/under%20the%20sea.jpg" alt="Under the sea" width="500">
+  <img src="/pooja/images/under%20the%20sea%20.jpg" alt="Under the sea" width="500">
 </p>
 
 🍲 Cooking with heart and experimenting with flavors  
@@ -61,5 +61,5 @@ Decoding Life, Light, and Evolution.
 🌏 Collaborations with **University of Bristol** (snowflake yeast - capacitor project) & industry partners with **ITRUST Medtech** (Taiwan) (Raman spectroscopy for microbial detection)  
 
 <p align="center">
-  <img src="/pooja/images/Dr.%20Po-Yen%20Lu%20Venture%20Partner%20TRUST%20AND%20CID%20group.jpg" alt="Dr. Po-Yen Lu TRUST AND CID group" width="600">
+  <img src="/pooja/images/Dr.%20Po-Yen%20Lu%20Venture%20Partner%20iTRUST%20AND%20CID%20group.jpg" alt="Dr. Po-Yen Lu TRUST AND CID group" width="600">
 </p>
