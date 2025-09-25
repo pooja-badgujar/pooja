@@ -6,22 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi, I’m **Pooja Manik Badgujar**, a scientist, dreamer, and storyteller of life’s hidden codes. I grew up curious about how life begins, heals, and transforms. I began my journey in Nanoscience and Nanotechnology, working with IBM (Bangalore) and the Optical Energy Conversion Laboratory (Taiwan) on semiconductors, where I learned how the smallest building blocks could create immense possibilities.  
+Hi, I’m **Dr. Pooja Manik Badgujar**, a scientist, dreamer, and storyteller of life’s hidden codes. I grew up curious about how life begins, heals, and transforms. I began my journey in Nanoscience and Nanotechnology, working with IBM (Bangalore, India) and the Optical Energy Conversion Laboratory (Hualien, Taiwan) on semiconductors, where I learned how the smallest building blocks could create immense possibilities.  
 
 <p align="center">
   <img src="/pooja/images/OEC%20.jpg" alt="Optical Energy Conversion Lab" width="500">
 </p>
 
-Yet, my curiosity pulled me further from circuits to cells. That curiosity led me to pursue a Ph.D. in Biophysics, where I discovered that molecules, such as carotenoids, carry not just colors but also stories.  Stories about regeneration, resilience, and the evolution of life itself.  
+Yet, my curiosity pulled me further from circuits to cells. That curiosity led me to pursue a Ph.D. in Biophysics at the InfraRed Laboratory (Hualien, Taiwan), where I discovered that molecules, such as carotenoids, carry not just colors but also stories. Stories about regeneration, resilience, and the evolution of life itself.  
 
 In my work, I use Raman spectroscopy, fluorescence lifetime imaging (2P-FLIM), and molecular analysis to study how life builds itself:  
 - How a tiny segmented worm regenerates lost body parts.  
 - How snowflake yeast evolves multicellularity from single cells.  
 - How molecules like carotenoids act as both protectors and signals across systems from amoeba to zebrafish to *Daucus Carota* (Orange carrots).  
 
-But science, for me, is more than lab work. It’s about curiosity, connection, and creativity.  
-I’ve shared my journey through online expo talks on Taiwan Career and Higher Education, mentored students, collaborated with international teams, and even rebuilt my lab after an earthquake. These experiences taught me resilience, teamwork, and the joy of creating something meaningful out of challenges.  
+But science, for me, is more than lab work. It’s about curiosity, connection, and creativity. I’ve shared my journey through online expo talks on Taiwan Career and Higher Education, mentored students, collaborated with international teams, and even rebuilt my lab after an earthquake. These experiences taught me resilience, teamwork, and the joy of creating something meaningful out of challenges.  
 
 <p align="center">
   <img src="/pooja/images/The%20Journey.png" alt="The Journey" width="550">
@@ -39,13 +37,31 @@ I’ve shared my journey through online expo talks on Taiwan Career and Higher E
   <img src="/pooja/images/Moroccan%20Lamb%20Tagine%20(Spice%20and%20Flavours).jpg" alt="Moroccan Lamb Tagine" width="260">
 </p>
 
+*Carrots, Cooking & Carotenoids*  
+When I cook carrots, I’m not just playing with flavors; I’m also seeing molecules at work. Carotenoids (like β-carotene, which makes carrots orange) change their bioavailability depending on how you cook them: boiling, steaming, or adding oil helps release them so our bodies can absorb more.  
+
+In my research, I study carotenoids as molecular storytellers: they act as antioxidants and as signals during regeneration and multicellularity.  
+Just like cooking reveals their hidden nutritional power, my spectroscopy work reveals their hidden biological roles guiding stem cells, regulating redox states, and influencing how life heals or evolves.  
+
+So in both the kitchen and the lab, carotenoids connect flavor, color, and vitality with the deeper story of life’s resilience and transformation.  
+“From snowflake yeast to regenerating worms, my research follows Darwin’s idea of survival of the fittest, where only the most adaptable molecular strategies endure.”  
+
 🚀 Dreaming big about contributing to the future of astrobiology  
 <p align="center">
   <img src="/pooja/images/Astronaut%20me.jpg" alt="Astronaut me" width="260">
 </p>
 
-I believe science is a universal language, one that connects regeneration in a worm to the potential for regeneration in humans, and even to the search for life on other worlds.  
-Decoding Life, Light, and Evolution.  
+From carotenoids as molecular signals in amoeba, zebrafish, and carrots, to the emergence of cooperative behavior in snowflake yeast, my research connects molecular fingerprints to some of life’s deepest questions:  
+
+- How do organisms regenerate?  
+- How did multicellularity evolve?  
+- Can universal biosignatures guide us in regenerative medicine and even astrobiology?  
+
+I am a biophysicist decoding the molecular signatures of life through advanced optical imaging. My work integrates Two-Photon Fluorescence Lifetime Imaging (phasor approach) and Raman spectroscopy to map cellular processes in vivo, revealing how carotenoids, redox states, and lipid metabolism regulate regeneration, development, and multicellularity. From identifying blastema formation in the regenerating worm *Aeolosoma viride* to tracking cooperative transitions in snowflake yeast, my research connects biophysics and evolutionary biology to address fundamental questions: how life heals, organizes, and evolves complexity.  
+
+My vision is to establish **label-free optical assays** as **universal tools** for studying **regeneration and the origins of life**, bridging model organisms, human health, and astrobiology.  
+
+I believe science is a universal language, one that connects regeneration in a worm to the potential for regeneration in humans, and even to the search for life on other worlds. Decoding Life, Light, and Evolution.  
 
 **Achievements**  
 
@@ -55,5 +71,5 @@ Decoding Life, Light, and Evolution.
 🌏 Collaborations with **University of Bristol** (snowflake yeast - capacitor project) & industry partners with **ITRUST Medtech** (Taiwan) (Raman spectroscopy for microbial detection)  
 
 <p align="center">
-  <img src="/pooja/images/Dr.%20Po-Yen%20Lu%20Venture%20Partner%20iTRUST%20AND%20CID%20group.jpg" alt="Dr. Po-Yen Lu TRUST AND CID group" width="550">
+  <img src="/pooja/images/Dr.%20Po-Yen%20Lu%20Venture%20Partner%20TRUST%20AND%20CID%20group.jpg" alt="Dr. Po-Yen Lu TRUST AND CID group" width="550">
 </p>
