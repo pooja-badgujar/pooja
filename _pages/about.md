@@ -30,24 +30,24 @@ I’ve shared my journey through online expo talks on Taiwan Career and Higher E
 These experiences taught me resilience, teamwork, and the joy of creating something meaningful out of challenges.  
 
 <p align="center">
-  <img src="/pooja/images/The%20Journey.png" alt="The Journey" width="600">
+  <img src="/pooja/images/The%20Journey.png" alt="The Journey" width="550">
 </p>
 
 **Outside the lab, you’ll find me:**  
 
 🌊 Diving into oceans or kayaking under the sun  
 <p align="center">
-  <img src="/pooja/images/under%20the%20sea%20.jpg" alt="Under the sea" width="500">
+  <img src="/pooja/images/under%20the%20sea%20.jpg" alt="Under the sea" width="280">
 </p>
 
 🍲 Cooking with heart and experimenting with flavors  
 <p align="center">
-  <img src="/pooja/images/Moroccan%20Lamb%20Tagine%20(Spice%20and%20Flavours).jpg" alt="Moroccan Lamb Tagine" width="400">
+  <img src="/pooja/images/Moroccan%20Lamb%20Tagine%20(Spice%20and%20Flavours).jpg" alt="Moroccan Lamb Tagine" width="260">
 </p>
 
 🚀 Dreaming big about contributing to the future of astrobiology  
 <p align="center">
-  <img src="/pooja/images/Astronaut%20me.jpg" alt="Astronaut me" width="400">
+  <img src="/pooja/images/Astronaut%20me.jpg" alt="Astronaut me" width="260">
 </p>
 
 I believe science is a universal language, one that connects regeneration in a worm to the potential for regeneration in humans, and even to the search for life on other worlds.  
@@ -61,5 +61,5 @@ Decoding Life, Light, and Evolution.
 🌏 Collaborations with **University of Bristol** (snowflake yeast - capacitor project) & industry partners with **ITRUST Medtech** (Taiwan) (Raman spectroscopy for microbial detection)  
 
 <p align="center">
-  <img src="/pooja/images/Dr.%20Po-Yen%20Lu%20Venture%20Partner%20iTRUST%20AND%20CID%20group.jpg" alt="Dr. Po-Yen Lu TRUST AND CID group" width="600">
+  <img src="/pooja/images/Dr.%20Po-Yen%20Lu%20Venture%20Partner%20iTRUST%20AND%20CID%20group.jpg" alt="Dr. Po-Yen Lu TRUST AND CID group" width="550">
 </p>
