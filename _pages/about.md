@@ -8,11 +8,11 @@ redirect_from:
 ---
 Hi, I’m **Dr. Pooja Manik Badgujar**, a scientist, dreamer, and storyteller of life’s hidden codes. I grew up curious about how life begins, heals, and transforms. I began my journey in Nanoscience and Nanotechnology, working with IBM (Bangalore, India) and the Optical Energy Conversion Laboratory (Hualien, Taiwan) on semiconductors, where I learned how the smallest building blocks could create immense possibilities.  
 
-<p align="center">
-  <img src="/pooja/images/OEC%20.jpg" alt="Optical Energy Conversion Lab" width="500">
-</p>
-
 Yet, my curiosity pulled me further from circuits to cells. That curiosity led me to pursue a Ph.D. in Biophysics at the InfraRed Laboratory (Hualien, Taiwan), where I discovered that molecules, such as carotenoids, carry not just colors but also stories. Stories about regeneration, resilience, and the evolution of life itself.  
+
+<p align="center">
+  <img src="/pooja/images/IR-LAB.png" alt="Optical Energy Conversion Lab" width="500">
+</p>
 
 In my work, I use Raman spectroscopy, fluorescence lifetime imaging (2P-FLIM), and molecular analysis to study how life builds itself:  
 - How a tiny segmented worm regenerates lost body parts.  
