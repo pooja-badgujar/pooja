@@ -65,11 +65,3 @@ I have observed them in:
 - [Badgujar, P. M., Wang, Y.-C., Cheng, C.-L.* (2021). *A light-mediated study of carotenoids in carrots (Daucus carota) using resonance Raman spectroscopy.* *Journal of Raman Spectroscopy*, 52(12), 2609.](https://www.researchgate.net/publication/352405785_A_light-mediated_study_of_carotenoids_in_carrots_Daucus_carota_using_resonance_Raman_spectroscopy)  
 
 ---
-
-### Publications  
-
-<ul>
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-</ul>
