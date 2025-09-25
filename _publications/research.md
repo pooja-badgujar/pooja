@@ -7,16 +7,18 @@ author_profile: true
 
 ## Research & Publications  
 
-My research journey is guided by a single question: **How do molecules shape life’s most profound transitions from regeneration to multicellularity?** Each paper I’ve written is a chapter in my ongoing exploration of life’s hidden language—how molecules signal, organize, and evolve to build complexity.  
+My research journey is guided by a single question: **How do molecules shape life’s most profound transitions from regeneration to multicellularity?** 
 
-From decoding the molecular whispers of regeneration to mapping the bioenergetic shifts that drive multicellularity, my work integrates advanced optical spectroscopy, Raman analysis, and fluorescence lifetime imaging to reveal stories beneath the microscope.  
+Each paper I’ve written is a chapter in my ongoing exploration of life’s hidden language—how molecules signal, organize, and evolve to build complexity. From decoding the molecular whispers of regeneration to mapping the bioenergetic shifts that drive multicellularity, my work integrates advanced optical spectroscopy, Raman analysis, and fluorescence lifetime imaging to reveal stories beneath the microscope.  
 
 ---
 
 ### Regeneration & Redox signaling (in vivo, label-free)  
 
 I pioneered the use of Raman spectroscopy combined with Two-Photon Fluorescence Lifetime Imaging (2P-FLIM) to study regeneration in the segmented worm *Aeolosoma viride*.  
+
 By separating blastemal cells from lipid droplets based on their unique lifetimes, I revealed how carotenoids regulate tissue repair through their antioxidant and signaling roles.  
+
 This work established *Aeolosoma* as a powerful, simplified model for regeneration, paving the way for applications in human biology.  
 
 ![Regeneration & Redox signaling](/pooja/images/1.Regeneration & Redox signaling (in vivo, label-free).png){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" }  
@@ -45,8 +47,7 @@ This work addresses one of life’s most fundamental questions: how do autonomou
 
 ### Carotenoids as a Life signature across states  
 
-Carotenoid dynamics from plant seeds (β-carotene, lutein) to zebrafish larvae (astaxanthin) and invertebrate regeneration map antioxidant vs signaling roles across contexts.  
-Carotenoids are conserved cross-platform biomarkers of development, stress response, and regeneration, with potential translatability to mammalian neurodevelopment and retinal metabolism.  
+Carotenoid dynamics from plant seeds (β-carotene, lutein) to zebrafish larvae (astaxanthin) and invertebrate regeneration map antioxidant vs signaling roles across contexts.  Carotenoids are conserved cross-platform biomarkers of development, stress response, and regeneration, with potential translatability to mammalian neurodevelopment and retinal metabolism.  
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/pooja/images/3A.jpg" alt="Carotenoid figure 3A" width="45%">
