@@ -53,3 +53,16 @@ I have observed them in:
 - [Badgujar, P. M., Wang, Y.-C., Cheng, C.-L.* (2021). *A light-mediated study of carotenoids in carrots (Daucus carota) using resonance Raman spectroscopy.* *Journal of Raman Spectroscopy*, 52(12), 2609.](https://www.researchgate.net/publication/352405785_A_light-mediated_study_of_carotenoids_in_carrots_Daucus_carota_using_resonance_Raman_spectroscopy)  
 
 ---
+
+### Beyond the Microscope
+
+**“Because Discovery dosent stop at the microscope”**
+
+Outside the lab, I’m still searching for life’s beauty in coral reefs beneath the waves, in the quiet patience of a garden, in the alchemy of a home-cooked meal, and in stories shared with friends and strangers alike. Whether I’m teaching, mentoring, kayaking, or capturing the world through a camera lens, curiosity continues to guide me. Ultimately, my science is about more than understanding; it’s about **belonging**. Because every discovery, from a single cell’s spark to the evolution of complexity, reminds me that life’s story is also ours.  
+
+Science may be my compass, but curiosity guides every part of my life. When I’m not decoding the molecular language of life, you’ll likely find me chasing sunlight in other ways, exploring coral reefs beneath the waves, hiking misty trails, diving beneath turquoise waves, hiking quiet mountain trails, or photographing the world through a different kind of lens. My love for cooking is more than a hobby; it’s chemistry in the kitchen, where molecules become flavor and tradition becomes innovation. I also have a soft spot for cats and dogs, whose playful curiosity often reminds me why I fell in love with science in the first place. My love for animals, spontaneous travels, and storytelling through photography keeps me grounded and reminds me that science, too, is a story we’re all part of.  
+
+![beyond microscope](/pooja/images/beyond_microscope.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" }  
+
+**“Cultivating life, curiosity, and discovery: one leaf, one cell, one story at a time.”**  
+
