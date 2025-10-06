@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research journey is guided by a single question: **How do molecules shape life’s most profound transitions from regeneration to multicellularity?** Each paper I’ve written is a chapter in my ongoing exploration of life’s hidden language—how molecules signal, organize, and evolve to build complexity. From decoding the molecular whispers of regeneration to mapping the bioenergetic shifts that drive multicellularity, my work integrates advanced optical spectroscopy, Raman analysis, and fluorescence lifetime imaging to reveal stories beneath the microscope.  
+My research journey is guided by a single question: **How do molecules shape life’s most profound transitions from regeneration to multicellularity?** Each paper I’ve written is a chapter in my ongoing exploration of life’s hidden language; how molecules signal, organize, and evolve to build complexity. From decoding the molecular whispers of regeneration to mapping the bioenergetic shifts that drive multicellularity, my work integrates advanced optical spectroscopy, Raman analysis, and fluorescence lifetime imaging to reveal stories beneath the microscope.  
 
 ---
 
