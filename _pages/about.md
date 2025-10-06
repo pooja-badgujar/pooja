@@ -22,7 +22,7 @@ In my work, I use Raman spectroscopy, fluorescence lifetime imaging (2P-FLIM), a
 But science, for me, is more than lab work. It’s about curiosity, connection, and creativity. I’ve shared my journey through online expo talks on Taiwan Career and Higher Education, mentored students, collaborated with international teams, and even rebuilt my lab after an earthquake. These experiences taught me resilience, teamwork, and the joy of creating something meaningful out of challenges.  
 
 <p align="center">
-  <img src="/pooja/images/The%20Journey.png" alt="The Journey" width="550">
+  <img src="/pooja/images/The%20Journey.jpg" alt="The Journey" width="550">
 </p>
 
 Outside the lab, you’ll find me:
@@ -30,14 +30,14 @@ Outside the lab, you’ll find me:
 
 **🌊 Diving into oceans or kayaking under the sun** 
 <p align="center">
-  <img src="/pooja/images/under%20the%20sea%20.jpg" alt="Under the sea" width="280">
+  <img src="/pooja/images/under%20the%20sea%20.png" alt="Under the sea" width="280">
 </p>
 
 **🍲 Cooking with heart and experimenting with flavors**  
 *Carrots, Cooking & Carotenoids*   
 
 <p align="center">
-  <img src="/pooja/images/Moroccan%20Lamb%20Tagine%20(Spice%20and%20Flavours).jpg" alt="Moroccan Lamb Tagine" width="260">
+  <img src="/pooja/images/Carrots,%20Cooking%20and%20Carotenoids).jpg" alt="Moroccan Lamb Tagine" width="260">
 </p>
 
 When I cook carrots, I’m not just playing with flavors; I’m also seeing molecules at work. Carotenoids (like β-carotene, which makes carrots orange) change their bioavailability depending on how you cook them: boiling, steaming, or adding oil helps release them so our bodies can absorb more.  
