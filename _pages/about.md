@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-If you're short on time, this video provides a concise look at my key work and long-term goals: ![youtube](https://youtu.be/bJqNj6T2dq4?feature=shared)  
+If you're short on time, this video provides a concise look at my key work and long-term goals:[YT Video](https://youtu.be/bJqNj6T2dq4?feature=shared)  
 
 Hi, I’m **Dr. Pooja Manik Badgujar**, a scientist, dreamer, and storyteller of life’s hidden codes. I grew up curious about how life begins, heals, and transforms. I began my journey in Nanoscience and Nanotechnology, working with IBM (Bangalore, India) and the Optical Energy Conversion Laboratory (Hualien, Taiwan) on semiconductors, where I learned how the smallest building blocks could create immense possibilities.  
 
