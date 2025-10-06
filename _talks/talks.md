@@ -13,7 +13,9 @@ Science thrives on dialogue. Presenting my work and engaging with the global sci
 
 - **Oral Presentation**: *Decoding carotenoid-driven regeneration in Aeolosoma viride* – **ICORS 2024**.  
 - **Poster Presentation**: *Decoding carotenoid-driven regeneration in Aeolosoma viride* – **IUPAB Congress 2024**.  
-- **Poster Presentation**: *Raman-based mapping of nanodiamond bioprobes in lung cancer cells* – **Hasselt Diamond Workshop – SBDD 2023**.  
+- **Poster Presentation**: *Raman-based mapping of nanodiamond bioprobes in lung cancer cells* – **Hasselt Diamond Workshop – SBDD 2023**.
+
+![international conferences](/pooja/images/international_conference.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" } 
 
 ---
 
@@ -28,7 +30,9 @@ Science thrives on dialogue. Presenting my work and engaging with the global sci
 ## 🌟 Plenary Talks  
 
 - *The Interplay of Carotenoids and Reactive Oxygen Species in a Regenerative Invertebrate (Label-Free)* – **TISRS & TARS Summer Camp 2024**.  
-  > One of the proudest milestones of my research journey, presenting our work as a plenary speaker.  
+  > One of the proudest milestones of my research journey, presenting our work as a plenary speaker.
+
+![domestic conferences](/pooja/images/domestic_conference.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" } 
 
 ---
 
@@ -37,6 +41,8 @@ Science thrives on dialogue. Presenting my work and engaging with the global sci
 - **Conference Volunteer & Session Moderator**: *13th New Diamond and Nano Carbons Conference (NDNC 2019)*.  
 - **Science Communication**: Delivered a **TEEP Internship Talk (Taiwan–India)** on the intersection of science and societal impact.  
   🎥 [Watch here](https://www.youtube.com/watch?v=yaeO1SSJA74).  
+
+![community](/pooja/images/culture.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" } 
 
 ---
 
