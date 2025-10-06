@@ -56,7 +56,7 @@ I have observed them in:
 
 ### Beyond the Microscope
 
-**“Because Discovery dosent stop at the microscope”**
+**“Because Discovery doesn't stop at the microscope”**
 
 Outside the lab, I’m still searching for life’s beauty in coral reefs beneath the waves, in the quiet patience of a garden, in the alchemy of a home-cooked meal, and in stories shared with friends and strangers alike. Whether I’m teaching, mentoring, kayaking, or capturing the world through a camera lens, curiosity continues to guide me. Ultimately, my science is about more than understanding; it’s about **belonging**. Because every discovery, from a single cell’s spark to the evolution of complexity, reminds me that life’s story is also ours.  
 
