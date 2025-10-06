@@ -14,6 +14,13 @@ Yet, my curiosity pulled me further from circuits to cells. That curiosity led m
   <img src="/pooja/images/The%20Journey.jpg" alt="The Journey" width="550">
 </p>
 
+**From OEC beginnings to IR breakthroughs**  
+<p align="center">
+  <img src="/pooja/images/OEC_to_IR.jpg" alt="From OEC to IR breakthroughs" width="550">
+</p>
+
+Under the mentorship of [Prof. Chia-Liang Cheng](https://faculty.ndhu.edu.tw/~clcheng/clcheng.htm), whose academic lineage traces back to Taiwan’s first Nobel laureate-trained scholars, **Yuan T. Lee**, I honed my skills in Two-Photon Fluorescence Lifetime Imaging (2P-FLIM) and Raman spectroscopy. This training shaped my approach to science, blending precision physics with biological complexity and laying the groundwork for my work on regeneration, molecular signatures, and the origins of multicellularity.  
+
 In my work, I use Raman spectroscopy, fluorescence lifetime imaging (2P-FLIM), and molecular analysis to study how life builds itself:  
 - How a tiny segmented worm regenerates lost body parts.  
 - How snowflake yeast evolves multicellularity from single cells.  
