@@ -30,14 +30,14 @@ Outside the lab, you’ll find me:
 
 **🌊 Diving into oceans or kayaking under the sun** 
 <p align="center">
-  <img src="/pooja/images/under%20the%20sea%20.png" alt="Under the sea" width="280">
+  <img src="/pooja/images/under%20the%20sea.png" alt="Under the sea" width="280">
 </p>
 
 **🍲 Cooking with heart and experimenting with flavors**  
 *Carrots, Cooking & Carotenoids*   
 
 <p align="center">
-  <img src="/pooja/images/Carrots,%20Cooking%20and%20Carotenoids).jpg" alt="Moroccan Lamb Tagine" width="260">
+  <img src="/pooja/images/Carrots,%20Cooking%20and%20Carotenoids.jpg" alt="Moroccan Lamb Tagine" width="260">
 </p>
 
 When I cook carrots, I’m not just playing with flavors; I’m also seeing molecules at work. Carotenoids (like β-carotene, which makes carrots orange) change their bioavailability depending on how you cook them: boiling, steaming, or adding oil helps release them so our bodies can absorb more.  
