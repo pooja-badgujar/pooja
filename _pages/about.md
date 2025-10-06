@@ -11,7 +11,7 @@ Hi, I’m **Dr. Pooja Manik Badgujar**, a scientist, dreamer, and storyteller of
 Yet, my curiosity pulled me further from circuits to cells. That curiosity led me to pursue a Ph.D. in Biophysics at the InfraRed Laboratory (Hualien, Taiwan), where I discovered that molecules, such as carotenoids, carry not just colors but also stories. Stories about regeneration, resilience, and the evolution of life itself.  
 
 <p align="center">
-  <img src="/pooja/images/IR-LAB.png" alt="Optical Energy Conversion Lab" width="500">
+  <img src="/pooja/images/The%20Journey.jpg" alt="The Journey" width="550">
 </p>
 
 In my work, I use Raman spectroscopy, fluorescence lifetime imaging (2P-FLIM), and molecular analysis to study how life builds itself:  
@@ -21,23 +21,20 @@ In my work, I use Raman spectroscopy, fluorescence lifetime imaging (2P-FLIM), a
 
 But science, for me, is more than lab work. It’s about curiosity, connection, and creativity. I’ve shared my journey through online expo talks on Taiwan Career and Higher Education, mentored students, collaborated with international teams, and even rebuilt my lab after an earthquake. These experiences taught me resilience, teamwork, and the joy of creating something meaningful out of challenges.  
 
-<p align="center">
-  <img src="/pooja/images/The%20Journey.jpg" alt="The Journey" width="550">
-</p>
 
 Outside the lab, you’ll find me:
 ===============================
 
 **🌊 Diving into oceans or kayaking under the sun** 
 <p align="center">
-  <img src="/pooja/images/under%20the%20sea.png" alt="Under the sea" width="280">
+  <img src="/pooja/images/under%20the%20sea.png" alt="Under the sea" width="400">
 </p>
 
 **🍲 Cooking with heart and experimenting with flavors**  
 *Carrots, Cooking & Carotenoids*   
 
 <p align="center">
-  <img src="/pooja/images/Carrots,%20Cooking%20and%20Carotenoids.jpg" alt="Moroccan Lamb Tagine" width="260">
+  <img src="/pooja/images/Carrots,%20Cooking%20and%20Carotenoids.jpg" alt="Moroccan Lamb Tagine" width="400">
 </p>
 
 When I cook carrots, I’m not just playing with flavors; I’m also seeing molecules at work. Carotenoids (like β-carotene, which makes carrots orange) change their bioavailability depending on how you cook them: boiling, steaming, or adding oil helps release them so our bodies can absorb more.  
@@ -48,7 +45,7 @@ So in both the kitchen and the lab, carotenoids connect flavor, color, and vital
 
 **🚀 Dreaming big about contributing to the future of astrobiology** 
 <p align="center">
-  <img src="/pooja/images/Astronaut%20me.jpg" alt="Astronaut me" width="260">
+  <img src="/pooja/images/Astronaut%20me.jpg" alt="Astronaut me" width="400">
 </p>
 
 From carotenoids as molecular signals in amoeba, zebrafish, and carrots, to the emergence of cooperative behavior in snowflake yeast, my research connects molecular fingerprints to some of life’s deepest questions:  
@@ -63,13 +60,9 @@ My vision is to establish **label-free optical assays** as **universal tools** f
 
 I believe science is a universal language, one that connects regeneration in a worm to the potential for regeneration in humans, and even to the search for life on other worlds. Decoding Life, Light, and Evolution.  
 
-**Achievements**  
+**Key Achievements**  
 
 🏅 Winner, **Hult Prize** (entrepreneurship for global challenges)  
 🎤 Speaker, **Taiwan–India Academic Forum** (Online Expo)  
 ✍️ Publications in **PNAS Nexus, Journal of Raman Spectroscopy, Materials Science in Semiconductor Processing**  
 🌏 Collaborations with **University of Bristol** (snowflake yeast - capacitor project) & industry partners with **ITRUST Medtech** (Taiwan) (Raman spectroscopy for microbial detection)  
-
-<p align="center">
-  <img src="/pooja/images/Dr.%20Po-Yen%20Lu%20Venture%20Partner%20TRUST%20AND%20CID%20group.jpg" alt="Dr. Po-Yen Lu TRUST AND CID group" width="550">
-</p>
