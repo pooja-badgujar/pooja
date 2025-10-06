@@ -25,10 +25,7 @@ I pioneered the use of Raman spectroscopy combined with Two-Photon Fluorescence 
 
 Using snowflake yeast as an experimental evolution model, I investigate how single cells evolve cooperation, adhesion, and division of labor. By applying optical tools and Raman spectroscopy, I study the bioenergetics and redox signaling underlying the transition to multicellularity.  
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/pooja/images/2. Snowflake yeast S. cerevisiae prepared in a Test Tube.jpg" alt="Snowflake yeast test tube" width="45%">
-  <img src="/pooja/images/2. TP-FLIM image of S. cerevisiae Yeast .jpg" alt="TP-FLIM yeast" width="45%">
-</div>  
+![Snowflakes](/pooja/images/yeast.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" }  
 
 This work addresses one of life’s most fundamental questions: how do autonomous cells become an integrated organism?  
 
