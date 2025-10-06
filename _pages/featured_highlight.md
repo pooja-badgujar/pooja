@@ -7,6 +7,7 @@ permalink: /featured_highlight/
 <p align="center">
   <img src="/pooja/images/feature.jpeg" alt="Featured highlight" width="550">
 </p>  
+
 ## Featured Highlight
 
 “From ancient carotenoid signatures in *Daucus carota* to their role in regeneration, this award-winning work explores how molecular vibrations trace the story of life — a story first heard at **1604 cm⁻¹ Raman signature of Life**.”
