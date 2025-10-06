@@ -14,8 +14,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Collaborations"
     url: /teaching/    
+
+  - title: "Leadership"
+    url: /leadership/
     
   - title: "CV"
     url: /cv/
